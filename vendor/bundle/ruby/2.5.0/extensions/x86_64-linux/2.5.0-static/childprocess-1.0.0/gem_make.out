@@ -1,0 +1,5 @@
+current directory: /mnt/c/wsl_home/app/gidaifes/check/vendor/bundle/ruby/2.5.0/gems/childprocess-1.0.0/ext
+/mnt/c/wsl_home/.rbenv/versions/2.5.3/bin/ruby mkrf_conf.rb
+
+current directory: /mnt/c/wsl_home/app/gidaifes/check/vendor/bundle/ruby/2.5.0/gems/childprocess-1.0.0/ext
+/mnt/c/wsl_home/.rbenv/versions/2.5.3/bin/ruby -rrubygems /mnt/c/wsl_home/app/gidaifes/check/vendor/bundle/ruby/2.5.0/gems/rake-13.0.0/exe/rake RUBYARCHDIR=/mnt/c/wsl_home/app/gidaifes/check/vendor/bundle/ruby/2.5.0/extensions/x86_64-linux/2.5.0-static/childprocess-1.0.0 RUBYLIBDIR=/mnt/c/wsl_home/app/gidaifes/check/vendor/bundle/ruby/2.5.0/extensions/x86_64-linux/2.5.0-static/childprocess-1.0.0
